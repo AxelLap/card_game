@@ -1,0 +1,62 @@
+{
+  "CARDS": [
+    {
+      "id": 1,
+      "level": 1,
+      "points": 2,
+      "title": "Blork",
+      "image_key": "blork"
+    },
+
+    {
+      "id": 3,
+      "level": 2,
+      "points": 5,
+      "title": "Zog",
+      "image_key": "zog"
+    },
+
+    {
+      "id": 4,
+      "level": 2,
+      "points": 5,
+      "title": "Krag",
+      "image_key": "krag"
+    },
+    {
+      "id": 5,
+      "level": 3,
+      "points": 9,
+      "title": "Snarg",
+      "image_key": "snarg"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "points": 2,
+      "title": "Blurk",
+      "image_key": "blurk"
+    },
+    {
+      "id": 7,
+      "level": 2,
+      "points": 6,
+      "title": "Wiz",
+      "image_key": "wiz"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "points": 3,
+      "title": "Pump",
+      "image_key": "pump"
+    },
+    {
+      "id": 9,
+      "level": 3,
+      "points": 8,
+      "title": "Taz",
+      "image_key": "taz"
+    }
+  ]
+}
